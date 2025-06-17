@@ -1,4 +1,4 @@
-<script>
+
 			const products = document.querySelectorAll('.product');
 
 		products.forEach(product => {
@@ -34,4 +34,4 @@
 			orderBtn.classList.toggle('active');
 		});
 
-</script>
+
